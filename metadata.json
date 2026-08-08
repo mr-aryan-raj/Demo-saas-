@@ -1,0 +1,6 @@
+{
+  "name": "DineFlow Pro",
+  "description": "Complete Premium Restaurant QR Ordering, Live Kitchen KDS, Customer CRM, Loyalty & Next Visit Offer Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
